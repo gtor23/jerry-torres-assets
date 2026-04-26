@@ -1,0 +1,22 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+
+# Editor/IDE folders
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# Node/Build junk (just in case you ever use a local optimization script)
+node_modules/
+dist/
+build/
+.env
